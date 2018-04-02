@@ -4,5 +4,10 @@
   "description": "Simple boilerplate for Los Baños Web Developers Group coding activity for April 2018",
   "main": "index.js",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.10.0"
+  }
 }
