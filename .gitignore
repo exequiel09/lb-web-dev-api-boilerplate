@@ -1,0 +1,60 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# dependencies
+node_modules
+
+#System Files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+.VolumeIcon.icns
+.fseventsd
+ehthumbs.db
+# Icon?
+
+# ctags
+tags
+.tags
+
+# misc
+npm-debug.log
+yarn-error.log
+
+# environments
+.envrc
+.env
+.env.*
+!.env.ci
+!.env.dist
+
+# temporary directories
+data
+
+# configuration
+*.conf
+!*.conf.dist
+
+# Project Scripts
+_scripts
+
+# Project Files
+TODO.md
+
+
